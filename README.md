@@ -64,15 +64,16 @@
 ### Clientes
 
 <div align="center">
-<a href="https://github.com/Produsoft-br">
+<div style="display: inline_block">
+<a href="https://github.com/Produsoft-br" target="_blank" >
   <img align="center" alt="AmBev" height="100" width="200" margin="5" src="https://github.com/Produsoft-br/Produsoft-br/blob/main/Imagens/ambev.png">
 </a>
 
-<a href="https://github.com/Produsoft-br">
+<a href="https://github.com/Produsoft-br" target="_blank" >
   <img align="center" alt="Martin Brower" height="100" width="200" margin="5" src="https://github.com/Produsoft-br/Produsoft-br/blob/main/Imagens/martinBrower.png">
 </a>
-<a href="https://github.com/Produsoft-br">
+<a href="https://github.com/Produsoft-br" target="_blank" >
   <img align="center" alt="BrasPress" height="100" width="200" margin="5" src="https://github.com/Produsoft-br/Produsoft-br/blob/main/Imagens/BrasPress.png">
 </a>
-
+</div>
 </div>
