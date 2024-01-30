@@ -55,13 +55,13 @@
 
 #### Principais Produtos
 
-- Software [Gestão de Frotas](https://www.produsoft.com.br/software-gestao-software)
+- Software [Gestão de Frotas](https://www.produsoft.com.br/software-gestao-frotas)
 - Software [Gestão de Veículos](https://www.produsoft.com.br/software-gestao-veiculos)
 - Software [Gestão de Manutenção](https://www.produsoft.com.br/software-gestao-manutencao)
 - Software [Gestão de Pneus](https://www.produsoft.com.br/software-gestao-pneus)
 - Aplicativo de CheckList
 
-### Principais Clientes
+### Clientes
 
 <div align="center">
 <a href="https://github.com/Produsoft-br">
@@ -73,9 +73,6 @@
 </a>
 <a href="https://github.com/Produsoft-br">
   <img align="center" alt="BrasPress" height="100" width="200" margin="5" src="https://github.com/Produsoft-br/Produsoft-br/blob/main/Imagens/BrasPress.png">
-</a>
-<a href="https://github.com/Produsoft-br">
-  <img align="center" alt="Santos Brasil" height="100" width="200" margin="5"  src="https://github.com/Produsoft-br/Produsoft-br/blob/main/Imagens/SantosBrasil.png">
 </a>
 
 </div>
